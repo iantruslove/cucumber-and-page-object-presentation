@@ -1,4 +1,4 @@
-Serious JavaScript
+Cucumber and Page Objects presentation
 ===============================
 
-A Deck.js presentation for UCAR SEA 2013.
+A presentation for NSIDC developers.  Live version online at http://iantruslove.github.com/cucumber-and-page-object-presentation
